@@ -16,3 +16,5 @@ JOIOJIリスペクトでJOIushiにしました。ヒントを見ると、JOI🐮
 FLAG : ```pakenCTF{JOIQUAL2ISCOMMINGSOON}```
 
 JOI2次予選は12/13です。~~CTFなんてしてないで~~極度精進しましょう！！
+
+writer : define

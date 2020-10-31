@@ -1,0 +1,48 @@
+RSA暗号は、現在最も広く使われている暗号技術の1つです。
+
+素数の組 p, q と適当な正の整数 e が決定した時、
+n = p*q , d=e^-1 mod (p-1)(q-1)
+
+この時、n,eが公開鍵、n,dが秘密鍵となります。
+また、定義より、p,qが求まるとdの値も求まるため、p,qも公開してはいけません。
+
+平文 c (整数)を暗号化する方法 :
+
+m = c^e (mod n)
+
+暗号 m (整数)を復号する方法 :
+
+c = m^d (mod n)
+
+平文や暗号文が整数なのは文字列を整数に変換しているからです。
+
+暗号化プログラムの例
+
+
+from Crypto.Util.number import inverse,long_to_bytes,bytes_to_long
+
+flag=b"pakenCTF{this_is_not_a_flag}"
+
+p=
+q=
+e=
+n=p*q
+
+c=pow(bytes_to_long(flag),e,n)
+print(c)
+
+p,q,eが分かっている状態からの復号化プログラムの例
+
+
+from Crypto.Util.number import inverse,long_to_bytes,bytes_to_long
+
+c=
+
+p=
+q=
+e=
+n=p*q
+
+d=inverse(e,(p-1)*(q-1))
+flag=long_to_bytes(pow(c,d,n)).decode()
+print(flag)
