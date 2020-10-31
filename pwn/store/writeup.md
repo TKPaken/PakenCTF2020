@@ -8,8 +8,6 @@
 
 プログラム [store](./store)
 
-writer : define
-
 # 解説
 
 シンプルなオーバーフローの問題です。競プロerなら一度はオーバーフローでWAを出した事があるのではないでしょうか？
@@ -19,3 +17,5 @@ writer : define
 その結果、moneyが1e9+7円を超えてFLAGが出力されます。入力の例としては、123456789などが挙げられます。
 
 FLAG : ```pakenCTF{6ef1ne_Int_l0n9_l0ng}```
+
+writer : define
