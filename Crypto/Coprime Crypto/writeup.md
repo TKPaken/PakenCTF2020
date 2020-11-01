@@ -1,5 +1,40 @@
 # 問題
 
+---Decrypt this cryptograph---
+
+"c1ys{4_C0_ky_}_hhaFrnn75ar5!y7p3T8aep1p"
+
+
+---Examples of plain texts and codes' pair---
+
+"Tsukukoma-Paken"
+
+"ea-mkksnkPaouuT"
+
+
+"kenkenken2004"
+
+"4002nekneknek"
+
+
+"We_love_CTF"
+"oCevT_eFl_W"
+
+"Prime_Number_Is_Still_Veiled"
+
+"lerlri__mVIees_i_NlSuetmdibP"
+
+
+"Are_You_Enjoying_This_CTF?"
+
+"?FTC_sihT_gniyojnE_uoY_erA"
+
+
+"abcdefghijk"
+
+"eibfjcgkdha"
+
+
 # 解説
 
 平文と暗号文の組み合わせが複数与えられ、それらから復号する問題です。
