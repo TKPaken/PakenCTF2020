@@ -1,5 +1,10 @@
 # 問題
 
+Code :  "2G=WE%\[6$,DH^VLDXvkBh^N2UMBd5r(Q%"
+
+key:3452
+
+full range
 
 # 解説
 
