@@ -16,4 +16,6 @@
 
 よって、 ```FLAG:pakenCTF{d0_y0u_kn0w_w64t_15_45C11_Ar7?}``` が得られました。
 
+ちなみに作問の閃きはアレシボメッセージから得ました。
+
 writer:kenkenken2004
