@@ -83,3 +83,5 @@ c言語で復号します(僕は)。
 1. for文で回して平文の配列をどんどん決めていく。
 
 よって、```FLAG：pakenCTF{Y0u_1i8hte6_7he_dArKNe55}```が得られました。
+
+writer:kenkenken2004
