@@ -29,7 +29,7 @@ Elgamal暗号の定義は
 
 p:素数、g,x,r:整数、m:平文、y:g^x%pとして
 
-**Enc(m)=(g^r%p,y^r%p)** 
+**Enc(m)=(g^r%p,y^r%p)** 、　
 
 **Dec(c1,c2)=c2*(c1^x)^-1%p** 
 
