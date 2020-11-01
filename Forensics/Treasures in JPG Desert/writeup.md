@@ -12,3 +12,4 @@
 
 よって、FLAG： ```pakenCTF{h4rd_4nd_f34rfvl_tr34svr3_hvn71ng}``` が得られました。
 
+writer:kenkenken2004
