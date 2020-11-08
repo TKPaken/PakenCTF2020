@@ -19,6 +19,8 @@
 
 なお、これより大きい解を入力すると不正解になる事に気を付けてください。
 
+ソースコード : [china.c](./china.c)
+
 FLAG : ```pakenCTF{Ch1nese_Rem4inder_The0rem}```
 
 writer : define
